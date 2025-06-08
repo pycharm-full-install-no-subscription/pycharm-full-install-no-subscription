@@ -1,0 +1,1 @@
+# pycharm-full-install-no-subscription
